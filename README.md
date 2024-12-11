@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me banothpraveen921@gmail.com
-- 😄 Pronouns: Praveen
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
