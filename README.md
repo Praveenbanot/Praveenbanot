@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveenbanot
+- 👋 Hi, I’m @Praveenbanoth
 - 👀 I’m interested in Reading books , exploring new things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 
